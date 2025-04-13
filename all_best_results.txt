@@ -1,0 +1,34 @@
+{
+  "learning_rate": {
+    "best_value": "0.1",
+    "accuracy": 0.5139
+  },
+  "weight_decay": {
+    "best_value": "0.005",
+    "accuracy": 0.5352
+  },
+  "neurons": {
+    "best_value": "512",
+    "accuracy": 0.5255
+  },
+  "layers": {
+    "best_value": "1",
+    "accuracy": 0.5336
+  },
+  "batch_size": {
+    "best_value": "16",
+    "accuracy": 0.5328
+  },
+  "activation": {
+    "best_value": "relu",
+    "accuracy": 0.5328
+  },
+  "momentum": {
+    "best_value": "0.5",
+    "accuracy": 0.5344
+  },
+  "dropout_rate": {
+    "best_value": "0.1",
+    "accuracy": 0.5381
+  }
+}
